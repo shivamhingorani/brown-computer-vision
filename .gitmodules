@@ -1,0 +1,21 @@
+[submodule "(0) Python Primer"]
+	path = (0) Python Primer
+	url = git@github.com:shivamhingorani/hw0-python-primer.git
+[submodule "(1) Image Filtering"]
+	path = (1) Image Filtering
+	url = git@github.com:shivamhingorani/hw1-image-filtering.git
+[submodule "(2) Feature Matching"]
+	path = (2) Feature Matching
+	url = git@github.com:shivamhingorani/hw2-feature-matching.git
+[submodule "(3) Camera Geometry"]
+	path = (3) Camera Geometry
+	url = git@github.com:shivamhingorani/hw3-camera-geometry.git
+[submodule "(4) Scene Classification"]
+	path = (4) Scene Classification
+	url = git@github.com:shivamhingorani/hw4-scene-classification.git
+[submodule "(5) Convolutional Neural Nets"]
+	path = (5) Convolutional Neural Nets
+	url = git@github.com:shivamhingorani/hw5-convolutional-neural-nets.git
+[submodule "(6) Final Project"]
+	path = (6) Final Project
+	url = git@github.com:shivamhingorani/hw6-final-project.git
